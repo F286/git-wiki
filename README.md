@@ -2,6 +2,10 @@
 
 it's a **modular and full featured wiki** powered by git, github pages and pull-requests without the needs of local installations/build! 
 
+test edit
+
+[Pyramid of Motivation](pyramid-of-motivation)
+
 It means: 
 
 * Improvements in the **cooperative** aspect: forks, pull-requests and roles.
